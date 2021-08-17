@@ -72,11 +72,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
-    #navbar {
-        img {
-            max-height: 3px;
-        }
-    }
-</style>

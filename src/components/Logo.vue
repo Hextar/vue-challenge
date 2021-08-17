@@ -11,19 +11,22 @@
 <style lang="scss">
     #logo {
         position: relative;
-        max-height: 48px;
 
         .logo {
             position: absolute;
-            height: 112px;
+            height: 128px;
             width: 112px;
-            top: -8px;
+            top: -16px;
             left: 16px;
             z-index: 10;
+
+			.v-image__image {
+				background-size: contain;
+			}
         }
 
         .logo-text {
-            margin-left: calc(96px + 16px) !important;
+            margin-left: 144px !important;
             z-index: 9;
         }
     }
