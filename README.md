@@ -29,6 +29,3 @@ That page need to be only available for signed in user.
 
 #### 4 CSS/STYLE
 Fix the Navbar logo as showed in the mockup
-
-#### 5 BASIC VUE USAGE
-Implement a search input, to filter out posts in the Homepage
